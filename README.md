@@ -1,4 +1,4 @@
-# BELT-Fusion: Uncertainty-Aware V2X Collaborative Perception Framework
+# BELT-Fusion: Bayesian Evidential Late Fusion for Trustworthy V2X Perception
 
 <img src="https://img.shields.io/badge/Code%20Status-Coming%20Soon-important" alt="Code Status"> [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/XXXX.XXXX)
 
@@ -21,8 +21,8 @@
 ## 📊 Performance Highlights
 | Scenario           | Dataset       | AP@0.7 Improvement |
 |---------------------|---------------|--------------------|
-| Noisy Environment   | OPV2V         | **+7.16%**         |
-| Ideal Conditions    | DAIR-V2X      | **+3.84%**         |
+| Noisy Environment   | OPV2V + DAIR-V2X       | **+7.16%**         |
+| Ideal Conditions    | OPV2V + DAIR-V2X      | **+3.84%**         |
 
 ## 🛠️ Implementation Details
 - **Supported Tasks**: 3D Object Detection
