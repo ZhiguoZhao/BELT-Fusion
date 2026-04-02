@@ -139,18 +139,7 @@ python tools/demo.py \
     --show-dir vis_results/
 ```
 
-## 📦 Model Zoo
-
-| Backbone | Dataset | Config | Checkpoint | AP@0.5 | AP@0.7 |
-|----------|---------|--------|------------|--------|--------|
-| PointPillars | DAIR-V2X | [config](configs/belt_fusion_pointpillars_dairv2x.py) | [model]() | 0.552 | 0.481 |
-| PointPillars | OPV2V | [config](configs/belt_fusion_pointpillars_opv2v.py) | [model]() | 0.724 | 0.447 |
-| SECOND | DAIR-V2X | [config]() | [model]() | 0.491 | 0.426 |
-| VoxelNet | DAIR-V2X | [config]() | [model]() | 0.468 | 0.405 |
-
-*Checkpoints will be uploaded soon.*
-
-## 🔧 Usage Guide
+##  Usage Guide
 
 ### Integrating with Your Detector
 
