@@ -1,0 +1,26 @@
+# Core dependencies
+torch>=1.9.0
+numpy>=1.20.0
+scipy>=1.7.0
+tqdm>=4.62.0
+
+# Computer vision
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Data processing
+pandas>=1.3.0
+pyyaml>=5.4.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Development
+pytest>=6.2.0
+black>=21.0
+flake8>=3.9.0
+
+# Optional: for distributed training
+mmcv-full>=1.4.0
+mmdet3d>=1.0.0
