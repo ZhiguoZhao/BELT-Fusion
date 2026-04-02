@@ -223,11 +223,11 @@ where $C$ is the conflict factor.
 If you find BELT-Fusion useful in your research, please cite our paper:
 
 ```bibtex
-@article{zhao2024beltfusion,
+@article{zhao2025beltfusion,
   title={BELT-Fusion: Bayesian Evidential Late Fusion for Trustworthy V2X Perception},
   author={Zhao, Zhiguo and Zhao, Cong and Chen, Kun and Ji, Yuxiong and Du, Yuchuan},
   journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2024}
+  year={2025}
 }
 ```
 
